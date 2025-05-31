@@ -208,8 +208,8 @@ void saveSampleCredentials() {
   preferences.putString("ssid1", "UUMWiFi_Guest");
   preferences.putString("pass1", "");
 
-  preferences.putString("ssid2", "iPhone 16 Pro Max");
-  preferences.putString("pass2", "umair12111");
+  preferences.putString("ssid2", "wifi_ssid");
+  preferences.putString("pass2", "wifi_password");
   preferences.end();
 }
 
